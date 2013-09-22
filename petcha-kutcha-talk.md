@@ -12,10 +12,10 @@ Since then, i studied gender studies, i worked as a teacher,  in an social media
 ###Travis CI
 
 Travis not only has one of the cutest maskots i've ever seen, WHICH also resembles one of their founders, Sven Fuchs quite a lot, but they also are doing some amazing work. They are running tests for your code and deploy it for you, so you don't have to worry about that.
-Travis has always been rooted and been born in the Open Source community and they aupported  Rails Girls form the first minute, which is one of the reasons I love them. Sven Fuchs and Konstantin Haase for example ave coached, mentored on many events and been especially involved with Rails Girls Berlin. 
+Travis has always been rooted and been born in the Open Source community and they supported  Rails Girls form the first minute, which is one of the reasons I love them. Sven Fuchs and Konstantin Haase for example have coached, mentored on many events and been especially involved with Rails Girls Berlin. 
 
 ###Rails Girls Berlin
-We in Berlin were the first local chapter of Rails Girls and we started it, because we fell in love with programming and wanted to continue doing that. Together. So over the time we started follow up Workshops and helped organize weekly project groups. Our goal was: To bring people together to keep on coding. So that they don't have to sit at home alone with only their computer and at one point want to throw it at the wall - in a group you have people stopping you from doing that ;)
+We in Berlin were the first local chapter of Rails Girls and we started it, because we fell in love with programming and wanted to continue doing that.Together. So over the time we started follow up Workshops and helped organize weekly project groups. Our goal was: To bring people together to keep on coding. So that they don't have to sit at home alone with only their computer and at one point want to throw it at the wall - in a group you have people stopping you from doing that ;)
 
 ###Rails Girls Summer of Code
 To think about further steps we could do to help these women getting even deeper into code, we had a meeting with coaches and organizers in [April] this year. There - with coffee and cake - the idea of a Rails Girls Summer of Code was born. 
@@ -33,7 +33,7 @@ We started the crowdfunding campaign and after 2 weeks we got this:
 This is a huge amount of money, which not only could buy you tons and tons of cheesecake, but which could support 19 students - so 9 more then we'd hoped for.
 On board for sponoring came wonderful community heros believing in our idea. Heros like github, google open source, 37signals, tilde, soundcloud and of course travis CI , who kickstarted this project and is the main organizer and supporter. ...They took me on board not only to be their communtiy manager, but to take over for Sven, who then could go back to his actual job - programming.
 
-###The Teams
+####The teams
 Okay,so the talk in may, the crowdfunding campaing running in June and the program officially started in 1st of July.
 And not only the sponsored teams started to get going, but we also have 15 volunteering students, who wanted to code over the summer no-matter-what. SO INSPIRING!
 
@@ -41,7 +41,7 @@ And not only the sponsored teams started to get going, but we also have 15 volun
 A lot of people are putting all their free time in this project, helped to create everything from a website to a whole support net of coaches.
 I believe we have around 109 people working on in and with this project. they are students, coaches, mentors, helpers, deveopers, organizers and friends.
 
-###The projects
+####The projects
 In July we started with our summer and since then the story has become even more fantastic. The students are working on projects like hackety hack, species, sinatra, bundler,disapora, rubinius, a job board for open source or contribute to a database of endangered species of the world. To only name a few!
 I could talk about the teams and introduce them to you for days, but unfortunately I only have 4 more minutes to talk - so just visit our website and get to know them there. Follow their summer, their code, their i-need-chocolate-now-moments as well as the happy dance moments. 
 They are writing open source stories here and you can follow the process of how the scene changes day by day a bit.
@@ -49,11 +49,11 @@ They are writing open source stories here and you can follow the process of how 
 (Amazingly we also got 59 free tickets to over 16 different conferences all over the world (THANKS BUBBLECONF).
 So the students are now actually travelling to conferences and just like me standing on stage, a bit scared but also with a big dream and a fantastic summer story to tell.)
 
-###The students
+####The students
 The women I'm telling you about are from the most different places and backgrounds. 
 We have people from Columbia, the US, Poland, India, Czech Republic ... and they all have different backgrounds - they are freelance movie directors,  , pr-interns, studies photographers, study Human-Computer Interaction and French philology. The all have one goal: contribute to open source and code full-time.
 
-###True story.
+####True story.
 
  Now we actually have a full grown project that takes the Rails Girls movement to another level. It's a yearly chance for people who fell in love with code and continued learning to really get deeper into code, to do nothing BUT code full-time. It's a serious step towards more diversity in tech.
 This all was made possible by people who believed in the cause, in the change and it all started only 4 months(!) ago with coffee, cake and and idea.
