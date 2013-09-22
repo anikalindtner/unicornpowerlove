@@ -52,7 +52,7 @@ So the students are now actually travelling to conferences and just like me stan
 The women I'm telling you about are from the most different places and backgrounds. 
 We have people from Columbia,[SLIDE15] the US, Poland, India, Czech Republic, the Netherlands ... and they all have different backgrounds - they are freelance movie directors, photographers, study Human-Computer Interaction and French philology but they all have one goal: contribute to open source and code full-time.
 
-####True story.
+####The next level
 
  Now we actually have a full grown project [SLIDE16] that takes the Rails Girls movement to the next level.
  Now you not only can start loving programming at a workshop, but also keep on coding towards a goal. 
@@ -60,8 +60,10 @@ We have people from Columbia,[SLIDE15] the US, Poland, India, Czech Republic, th
 
 This all was made possible by people who believed in the cause, in the change and it all started only 4 months(!) ago with coffee, cake and and idea.
 
-I'm still truly amazed by this adventure! It's brilliant to see each day[SLIDE18], how new things are being created and how the scene starts to change by tiny but determined steps. 
+I'm still truly amazed by this adventure! It's brilliant to see each day [SLIDE18], how new things are being created and how the scene starts to change by tiny but determined steps. 
 I only realised really when preparing this, and talking with friends & family, just WHAT an unusal thinge we've build here.
+
+###True story
 
 It seems that if you really put your whole heart into something - the whole heart with all bits and pieces  - you can manage unbelievable things.[SLIDE19]
 And I'm so happy to be part of this dream. Everybody in here can be! It's been a huge step for the community and even bigger steps for these women. This summer is barely over and it's already time to prepare the next one.We always are happy about people joining us who want to take part/coach/support/ us or just send cat gifs.[SLIDE20] If you want to be part of this amazing thing, just get in touch. Wonderfully enougj, this is only one many initiatives, events and stories coming up in tech. And there are many more to come.
