@@ -33,6 +33,7 @@ We started the crowdfunding campaign and after 2 weeks we got this:
 This is a huge amount of money, which not only could buy you tons and tons of cheesecake, but which could support 19 students - so 9 more then we'd hoped for.
 On board for sponoring came wonderful community heros believing in our idea. Heros like github, google open source, 37signals, tilde, soundcloud and of course travis CI , who kickstarted this project and is the main organizer and supporter. ...They took me on board not only to be their communtiy manager, but to take over for Sven, who then could go back to his actual job - programming.
 
+###The Teams
 Okay,so the talk in may, the crowdfunding campaing running in June and the program officially started in 1st of July.
 And not only the sponsored teams started to get going, but we also have 15 volunteering students, who wanted to code over the summer no-matter-what. SO INSPIRING!
 
@@ -40,12 +41,13 @@ And not only the sponsored teams started to get going, but we also have 15 volun
 A lot of people are putting all their free time in this project, helped to create everything from a website to a whole support net of coaches.
 I believe we have around 109 people working on in and with this project. they are students, coaches, mentors, helpers, deveopers, organizers and friends.
 
-In July we started with our summer and since then the story has become even more fantastic. The students are working on projects like hackety hack, species, sinatra, bundler,disapora, rubinius,or a job board for open source. To only name a few!
+###The projects
+In July we started with our summer and since then the story has become even more fantastic. The students are working on projects like hackety hack, species, sinatra, bundler,disapora, rubinius, a job board for open source or contribute to a database of endangered species of the world. To only name a few!
 I could talk about the teams and introduce them to you for days, but unfortunately I only have 4 more minutes to talk - so just visit our website and get to know them there. Follow their summer, their code, their i-need-chocolate-now-moments as well as the happy dance moments. 
 They are writing open source stories here and you can follow the process of how the scene changes day by day a bit.
 
-Amazingly we also got 59 free tickets to over 16 different conferences all over the world (THANKS BUBBLECONF).
-So the students are now actually travelling to conferences and just like me standing on stage, a bit scared but also with a big dream and a fantastic summer story to tell.
+(Amazingly we also got 59 free tickets to over 16 different conferences all over the world (THANKS BUBBLECONF).
+So the students are now actually travelling to conferences and just like me standing on stage, a bit scared but also with a big dream and a fantastic summer story to tell.)
 
 ###The students
 The women I'm telling you about are from the most different places and backgrounds. 
