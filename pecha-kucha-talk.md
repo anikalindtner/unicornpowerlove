@@ -1,4 +1,3 @@
-
 [PHOTO NINA][SLIDE 1]
 This is Nina, she studied slavic languages and political science and worked in marketing. In February she attended a rails girls beginner workshop and In june she quit her job to program and work on the open source project spree.
 
@@ -12,7 +11,7 @@ Since then, i studied gender studies, worked as a teacher, in a social media age
 
 ###Travis CI
 
-Travis not only has one of the cutest maskots [SLIDE 3] i've ever seen, WHICH kinda resembles one of their founders, Sven Fuchs quite a lot, but they  are also doing amazing work. They are running tests for your code and deploy it, so you don't have to worry about that.
+Travis not only has one of the cutest maskots [SLIDE 3] i've ever seen,( WHICH kinda resembles one of their founders, Sven Fuchs quite a lot, but ) they are running tests for your code and deploy it, so you don't have to worry about that.
 One of the reasons, I love them, is that Travis has always been rooted in the Open Source community and that they supported Rails Girls form the first minute. [SLIDE 4] Sven Fuchs and Konstantin Haase for example have coached and mentored on many events and been especially involved with Rails Girls Berlin. 
 
 ###Rails Girls Berlin
@@ -32,17 +31,17 @@ But to make the dream come true we needed money. A lot. So we spread the word, a
 We started the crowdfunding campaign and after 2 weeks we got this:[SLIDE10]
 80.000 dollars. 
 This is a huge amount of money, which not only could buy you tons and tons of cheesecake, but which could support 19 students - so 9 more then we'd hoped for. 
-On board for sponoring we have wonderful community heros believing in our idea. Heros like github, google open source, 37signals, tilde,[SLIDE11] soundcloud and of course travis CI , who kickstarted this project and is the main organizer and supporter. ...They took *me* on board not only to be their communtiy manager, but to take over for Sven, who then could go back to his actual job - programming.
+On board for sponoring we have wonderful community heros believing in our idea. Heros like github, google open source, 37signals, tilde,[SLIDE11] soundcloud and of course travis CI , who kickstarted this project and is the main organizer and supporter. ...They took *me* on board not only to be their communtiy manager, took over for Sven in coordinating RGSoc, so he then could go back to his actual job - programming.
 
 ####The teams
 Okay,so the talk in may, the crowdfunding campaing running in June and the program officially started 1st of July.[SLIDE12]
-And not only the sponsored teams started to get going, but we also have 15 volunteering students, who wanted to code over the summer no-matter-what. SO INSPIRING!
+And not only the sponsored teams started to get going, but we also have 15 volunteering students, who wanted to code over the summer no-matter-what. this is SO INSPIRING for me.
 
-A lot of people are putting a lot of free time in this project, coach, mentor, tweet, blog, helped to create everything from a website, to a whole support net of coaches.[SLIDE13]
-We have amazing people  working on in and with this project. 
+A lot of wonderful people are putting a lot of free time in this project, coach, mentor, tweet, blog, helped to create everything from a website, to a whole support net of coaches.[SLIDE13]
+
 
 ####The projects
-In July we started with our summer and since then the story has become even more fantastic. The students are working on projects like hackety hack, rails, sinatra, bundler, a database of endangered species of the world. To only name a few!
+In July we started with our summer and since then the story has become even more ..... The students are working on projects like hackety hack, rails, sinatra, bundler, a database of endangered species of the world. To only name a few!
 I could talk about the teams and introduce them to you for days[SLIDE14], but unfortunately I only have 2 more minutes to talk - so you can visit our website and get to know them there. Follow their summer, their code, their i-need-chocolate-now-moments as well as the happy dance moments. 
 
 ####The students
@@ -63,7 +62,7 @@ I only realised really when preparing this, and talking with friends & family, j
 ###True story
 
 It seems that if you really put your whole heart into something - the whole heart with all bits and pieces  - you can manage unbelievable things.[SLIDE19]
-And I'm so happy to be part of this dream. Everybody in here can be! It's been a huge step for the community and even bigger steps for these women. This summer is barely over and it's already time to prepare the next one.We always are happy about people joining us who want to take part/coach/support/ us or just send cat gifs.[SLIDE20] If you want to be part of this amazing thing, just get in touch. Wonderfully enougj, this is only one many initiatives, events and stories coming up in tech. And there are many more to come.
+And I'm so happy to be part of this dream. Everybody in here can be! It's been a huge step for the community and even bigger steps for these women. This summer is barely over and it's already time to prepare the next one.We always are happy about people joining us who want to take part/coach/support/ us or just send cat gifs.[SLIDE20] If you want to be part, just get in touch. Wonderfully enough, this is only one many initiatives, events and stories coming up in tech. And there are many more to come.
 THIS was only the beginning![transition 14 sec]Thanks. 
 
 
